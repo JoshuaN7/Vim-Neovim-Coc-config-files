@@ -1,1 +1,1 @@
-# Vim-Neovim-Coc-config-files
+# Vim/Neovim/Coc config files

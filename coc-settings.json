@@ -1,0 +1,19 @@
+{
+    "coc.preferences.formatOnsaveFiletypes": ["css", "javascript", "html", "json", "python"],
+
+    "python.linting.enabled" : true,
+    "python.linting.pylintEnabled": true,
+
+    "snippets.ultisnips.directories" :
+    [
+        "UltiSnips",
+        "~/.config.nvim/utils/snips"
+    ],
+
+    "pairs.enableCharacters": ["(" , "[", "{", "'", "`", "\""],
+    "suggest.noselect": false,
+    "rpc.showProblems": false,
+    "rpc.buttonEnabled": false,
+    "rpc.checkIdle": true,
+    "rpc.idleText": "Too lazy to code"
+}
